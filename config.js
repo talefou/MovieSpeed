@@ -136,7 +136,7 @@ module.exports = {
       isXml: false
     },
     {
-      name: "量子采集",
+      name: "量子点播",
       api: "https://cj.lzcaiji.com/api.php/provide/vod",
       isXml: false
     },
@@ -191,7 +191,7 @@ module.exports = {
       isXml: false
     },
     {
-      name: "爱奇艺",
+      name: "爱奇艺资源",
       api: "https://iqiyizyapi.com/api.php/provide/vod",
       isXml: false
     },
