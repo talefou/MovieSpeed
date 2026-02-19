@@ -224,6 +224,16 @@ module.exports = {
       name: "艾旦影视",
       api: "https://lovedan.net/api.php/provide/vod",
       isXml: false
+    },
+    {
+      name: "无水印资源",
+      api: "https://api.wsyzy.net/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "索尼资源",
+      api: "https://suoniapi.com/api.php/provide/vod",
+      isXml: false
     }
   ],
   
