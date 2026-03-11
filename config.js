@@ -181,7 +181,7 @@ module.exports = {
       isXml: false
     },
     {
-      name: "速博资源",
+      name: "速播资源",
       api: "https://subocaiji.com/api.php/provide/vod",
       isXml: false
     },
