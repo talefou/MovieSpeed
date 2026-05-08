@@ -172,7 +172,7 @@ module.exports = {
     },
     {
       name: "1080资源",
-      api: "https://api.1080zyku.com/inc/apijson.php/",
+      api: "https://api.1080zyku.com/inc/apijson.php",
       isXml: false
     },
     {
