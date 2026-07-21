@@ -26,18 +26,13 @@ module.exports = {
       isXml: false
     },
     {
-      name: "天涯资源",
+      name: "天涯影视",
       api: "https://tyyszy.com/api.php/provide/vod",
       isXml: false
     },
     {
-      name: "非凡影视",
-      api: "https://api.ffzyapi.com/api.php/provide/vod",
-      isXml: false
-    },
-    {
       name: "非凡资源",
-      api: "https://cj.ffzyapi.com/api.php/provide/vod",
+      api: "https://api.ffzyapi.com/api.php/provide/vod",
       isXml: false
     },
     {
@@ -56,11 +51,6 @@ module.exports = {
       isXml: false
     },
     {
-      name: "卧龙点播",
-      api: "https://collect.wolongzyw.com/api.php/provide/vod",
-      isXml: false
-    },
-    {
       name: "极速资源",
       api: "https://jszyapi.com/api.php/provide/vod",
       isXml: false
@@ -68,11 +58,6 @@ module.exports = {
     {
       name: "豆瓣资源",
       api: "https://dbzy.tv/api.php/provide/vod",
-      isXml: false
-    },
-    {
-      name: "豆瓣点播",
-      api: "https://caiji.dbzy5.com/api.php/provide/vod",
       isXml: false
     },
     {
@@ -86,17 +71,7 @@ module.exports = {
       isXml: false
     },
     {
-      name: "魔都动漫",
-      api: "https://caiji.moduapi.cc/api.php/provide/vod",
-      isXml: false
-    },
-    {
       name: "最大资源",
-      api: "https://api.zuidapi.com/api.php/provide/vod",
-      isXml: false
-    },
-    {
-      name: "最大点播",
       api: "https://zuidazy.me/api.php/provide/vod",
       isXml: false
     },
@@ -107,17 +82,7 @@ module.exports = {
     },
     {
       name: "无尽资源",
-      api: "https://api.wujinapi.me/api.php/provide/vod",
-      isXml: false
-    },
-    {
-      name: "无尽点播",
       api: "https://api.wujinapi.com/api.php/provide/vod",
-      isXml: false
-    },
-    {
-      name: "旺旺短剧",
-      api: "https://wwzy.tv/api.php/provide/vod",
       isXml: false
     },
     {
@@ -133,11 +98,6 @@ module.exports = {
     {
       name: "量子资源",
       api: "https://cj.lziapi.com/api.php/provide/vod",
-      isXml: false
-    },
-    {
-      name: "量子点播",
-      api: "https://cj.lzcaiji.com/api.php/provide/vod",
       isXml: false
     },
     {
@@ -162,11 +122,6 @@ module.exports = {
     },
     {
       name: "U酷资源",
-      api: "https://api.ukuapi.com/api.php/provide/vod",
-      isXml: false
-    },
-    {
-      name: "U酷点播",
       api: "https://api.ukuapi88.com/api.php/provide/vod",
       isXml: false
     },
@@ -233,6 +188,26 @@ module.exports = {
     {
       name: "索尼资源",
       api: "https://suoniapi.com/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "闪电资源",
+      api: "https://xsd.sdzyapi.com/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "OK资源",
+      api: "https://api.okzyw.net/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "鸭鸭资源",
+      api: "https://cj.yayazy.net/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "牛牛资源",
+      api: "https://api.niuniuzy.me/api.php/provide/vod",
       isXml: false
     }
   ],
