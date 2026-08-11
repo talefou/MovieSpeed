@@ -209,6 +209,21 @@ module.exports = {
       name: "牛牛资源",
       api: "https://api.niuniuzy.me/api.php/provide/vod",
       isXml: false
+    },
+    {
+      name: "西瓜资源",
+      api: "https://caiji.xgzyapi.com/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "虎牙资源",
+      api: "https://www.huyaapi.com/api.php/provide/vod",
+      isXml: false
+    },
+    {
+      name: "快车资源",
+      api: "https://caiji.kuaichezy.org/api.php/provide/vod",
+      isXml: false
     }
   ],
   
