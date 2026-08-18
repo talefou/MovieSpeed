@@ -116,11 +116,6 @@ module.exports = {
       isXml: false
     },
     {
-      name: "CK资源",
-      api: "https://ckzy.me/api.php/provide/vod",
-      isXml: false
-    },
-    {
       name: "U酷资源",
       api: "https://api.ukuapi88.com/api.php/provide/vod",
       isXml: false
