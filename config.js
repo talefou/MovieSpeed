@@ -219,6 +219,11 @@ module.exports = {
       name: "快车资源",
       api: "https://caiji.kuaichezy.org/api.php/provide/vod",
       isXml: false
+    },
+    {
+      name: "巨量资源",
+      api: "https://api.juliang.live/api/provide/vod",
+      isXml: false
     }
   ],
   
